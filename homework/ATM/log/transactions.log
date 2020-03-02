@@ -1,0 +1,8 @@
+2020-02-23 20:48:23,563 transaction.py[line:25] INFO account:1234 action:withdraw amount:100.0 interest:5.0
+2020-02-23 20:51:56,657 transaction.py[line:25] INFO account:1234 action:withdraw amount:100.0 interest:5.0
+2020-02-23 20:52:58,107 transaction.py[line:25] INFO account:1234 action:withdraw amount:100.0 interest:5.0
+2020-02-23 20:54:30,751 transaction.py[line:25] INFO account:1234 action:withdraw amount:1.0 interest:0.05
+2020-02-24 12:06:42,988 transaction.py[line:25] INFO account:1234 action:withdraw amount:1.0 interest:0.05
+2020-02-24 12:53:34,247 transaction.py[line:25] INFO account:1234 action:withdraw amount:1.0 interest:0.05
+2020-02-24 12:55:30,426 transaction.py[line:25] INFO account:1234 action:withdraw amount:2.0 interest:0.1
+2020-02-24 12:58:46,935 transaction.py[line:25] INFO account:1234 action:withdraw amount:1.0 interest:0.05
